@@ -40,6 +40,8 @@ All scientists to ECON
 - Steal GC/Runes from 2:3 -> 6:7 -> 6:12
 
 ## Hu/T
+[General Orders](https://github.com/Poltergeisen/utopia-orders/blob/main/README.md#general-orders)
+
 ### Military
 - Train off specs
 - Maintain 1.5 TPA
