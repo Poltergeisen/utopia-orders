@@ -1,1 +1,30 @@
 # utopia-orders
+
+
+New ritual cast that down 101 minimum and steal runes if your smaller with good tb ask for runes while your on only!
+
+Wages 200% NOW
+
+MAX GAIN 2:3
+DONT GIVE HOSTILE TO 2:3 YET
+
+everyone - steal gc>runes off of 2:3>6:7>6:12
+
+Av - build towards 5% wts>tgs
+Tacts - build towards 12% hosp>5% wts>tgs
+Clerics(non-av) - build towards 12% rax>5% wts>tgs
+Fa/de - build towards 10% rax>12% hosp>10%+ tds
+
+This is with incoming
+DO NOT RAZE
+Maintain farms>guilds>towers>stables>dungs
+
+Sci:
+
+Keep all new scientists into econ
+
+Econ - Once you get to 60k books into food THEN 30k books in artisan spread 20k to everything remaining then pop to 60k
+
+Military - once you get 25k books into draft go 25k books training
+
+Arcane - once you get 15k books ritual get to 60k thievery then 60k in channeling
