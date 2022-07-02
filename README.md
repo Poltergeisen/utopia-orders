@@ -63,6 +63,7 @@ All scientists to ECON
 #### Arcane
 15k Invocation -> etc...
 
+___
 ## Avian/Tactician
 [General Orders](https://github.com/Poltergeisen/utopia-orders/blob/main/README.md#general-orders)
 
@@ -87,6 +88,7 @@ All scientists to ECON
 #### Arcane
 15k Invocation -> etc...
 
+___
 ## Faery
 [General Orders](https://github.com/Poltergeisen/utopia-orders/blob/main/README.md#general-orders)
 
@@ -111,6 +113,7 @@ All scientists to ECON
 #### Arcane
 15k Invocation -> etc...
 
+___
 ## Rogue
 [General Orders](https://github.com/Poltergeisen/utopia-orders/blob/main/README.md#general-orders)
 
