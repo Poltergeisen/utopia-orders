@@ -62,3 +62,75 @@ All scientists to ECON
 
 #### Arcane
 15k Invocation -> etc...
+
+## Avian/Tactician
+[General Orders](https://github.com/Poltergeisen/utopia-orders/blob/main/README.md#general-orders)
+
+### Military
+- Train off specs
+- Maintain 1.5 TPA
+- etc...
+
+### Build
+| Banks | WTs | This | That |   |
+|-------|-----|------|------|---|
+| 10    | 10  | 10   | 10   |   |
+
+### Science
+All scientists to ECON
+#### Economy
+25k production -> 25k Tools -> ...
+
+#### Military
+25k Resilience -> 25k Heroism -> 25k Valor
+
+#### Arcane
+15k Invocation -> etc...
+
+## Faery
+[General Orders](https://github.com/Poltergeisen/utopia-orders/blob/main/README.md#general-orders)
+
+### Military
+- Train off specs
+- Maintain 1.5 TPA
+- etc...
+
+### Build
+| Banks | WTs | This | That |   |
+|-------|-----|------|------|---|
+| 10    | 10  | 10   | 10   |   |
+
+### Science
+All scientists to ECON
+#### Economy
+25k production -> 25k Tools -> ...
+
+#### Military
+25k Resilience -> 25k Heroism -> 25k Valor
+
+#### Arcane
+15k Invocation -> etc...
+
+## Rogue
+[General Orders](https://github.com/Poltergeisen/utopia-orders/blob/main/README.md#general-orders)
+
+### Military
+- Train off specs
+- Maintain 1.5 TPA
+- etc...
+
+### Build
+| Banks | WTs | This | That |   |
+|-------|-----|------|------|---|
+| 10    | 10  | 10   | 10   |   |
+
+### Science
+All scientists to ECON
+#### Economy
+25k production -> 25k Tools -> ...
+
+#### Military
+25k Resilience -> 25k Heroism -> 25k Valor
+
+#### Arcane
+15k Invocation -> etc...
