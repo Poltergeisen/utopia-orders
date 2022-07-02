@@ -32,7 +32,7 @@ All scientists to ECON
 15k Invocation -> etc...
 
 
-# ------------------------- NEXT EXAMPLE SECTION ----------------------------
+# ------------------------- NEXT EXAMPLE SECTION -----------------------
 # Orders grouped by race/pers combo
 ## General Orders
 - 200%
