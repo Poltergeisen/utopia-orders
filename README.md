@@ -30,19 +30,32 @@ Military - once you get 25k books into draft go 25k books training
 Arcane - once you get 15k books ritual get to 60k thievery then 60k in channeling
 
 
-# My Section
+# My Section -- Quick Notes
+WAGES 200%
 
-# Targets
+## Targets
 Max Gain 2:3
 
-# Builds
-## Hu/T
+## Builds
+### Hu/T
 
 | Banks | WTs | This | That |   |
 |-------|-----|------|------|---|
 | 10    | 10  | 10   | 10   |   |
 
-## Avian/Cleric
+### Avian/Cleric
 | Banks | WTs | This | That |   |
 |-------|-----|------|------|---|
 | 10    | 10  | 10   | 10   |   |
+
+## Science
+### Hu/T
+All scientists to ECON
+#### Economy
+25k production -> 25k Tools -> ...
+
+#### Military
+25k Resilience -> 25k Heroism -> 25k Valor
+
+#### Arcane
+15k Invocation -> etc...
