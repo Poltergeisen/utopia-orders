@@ -54,14 +54,12 @@ All scientists to ECON
 
 ### Science
 All scientists to ECON
-#### Economy
-25k production -> 25k Tools -> ...
-
-#### Military
-25k Resilience -> 25k Heroism -> 25k Valor
-
-#### Arcane
-15k Invocation -> etc...
+- Economy
+  - 25k production -> 25k Tools -> ...
+- Military
+  - 25k Resilience -> 25k Heroism -> 25k Valor
+- Arcane
+  - 15k Invocation -> etc...
 
 ___
 ## Avian/Tactician
@@ -79,14 +77,12 @@ ___
 
 ### Science
 All scientists to ECON
-#### Economy
-25k production -> 25k Tools -> ...
-
-#### Military
-25k Resilience -> 25k Heroism -> 25k Valor
-
-#### Arcane
-15k Invocation -> etc...
+- Economy
+  - 25k production -> 25k Tools -> ...
+- Military
+  - 25k Resilience -> 25k Heroism -> 25k Valor
+- Arcane
+  - 15k Invocation -> etc...
 
 ___
 ## Faery
@@ -104,14 +100,12 @@ ___
 
 ### Science
 All scientists to ECON
-#### Economy
-25k production -> 25k Tools -> ...
-
-#### Military
-25k Resilience -> 25k Heroism -> 25k Valor
-
-#### Arcane
-15k Invocation -> etc...
+- Economy
+  - 25k production -> 25k Tools -> ...
+- Military
+  - 25k Resilience -> 25k Heroism -> 25k Valor
+- Arcane
+  - 15k Invocation -> etc...
 
 ___
 ## Rogue
@@ -129,11 +123,9 @@ ___
 
 ### Science
 All scientists to ECON
-#### Economy
-25k production -> 25k Tools -> ...
-
-#### Military
-25k Resilience -> 25k Heroism -> 25k Valor
-
-#### Arcane
-15k Invocation -> etc...
+- Economy
+  - 25k production -> 25k Tools -> ...
+- Military
+  - 25k Resilience -> 25k Heroism -> 25k Valor
+- Arcane
+  - 15k Invocation -> etc...
