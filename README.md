@@ -8,12 +8,12 @@ Wages 200% NOW
 MAX GAIN 2:3
 DONT GIVE HOSTILE TO 2:3 YET
 
-everyone - steal gc>runes off of 2:3>6:7>6:12
+everyone - steal gc>runes off of 
 
-Av - build towards 5% wts>tgs
-Tacts - build towards 12% hosp>5% wts>tgs
-Clerics(non-av) - build towards 12% rax>5% wts>tgs
-Fa/de - build towards 10% rax>12% hosp>10%+ tds
+Av - build towards % wts>tgs
+Tacts - build towards % hosp>% wts>tgs
+Clerics(non-av) - build towards  rax>% wts>tgs
+Fa/de - build towardsrax> hosp+ tds
 
 This is with incoming
 DO NOT RAZE
@@ -28,3 +28,21 @@ Econ - Once you get to 60k books into food THEN 30k books in artisan spread 20k 
 Military - once you get 25k books into draft go 25k books training
 
 Arcane - once you get 15k books ritual get to 60k thievery then 60k in channeling
+
+
+# My Section
+
+# Targets
+Max Gain 2:3
+
+# Builds
+## Hu/T
+
+| Banks | WTs | This | That |   |
+|-------|-----|------|------|---|
+| 10    | 10  | 10   | 10   |   |
+
+## Avian/Cleric
+| Banks | WTs | This | That |   |
+|-------|-----|------|------|---|
+| 10    | 10  | 10   | 10   |   |
