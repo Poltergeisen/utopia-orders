@@ -34,7 +34,10 @@ Arcane - once you get 15k books ritual get to 60k thievery then 60k in channelin
 WAGES 200%
 
 ## Targets
-Max Gain 2:3
+Max Gain 2:3 _**until HOSTILE**_
+
+## Theivery
+Steal GC/Runes from 2:3 -> 6:7 -> 6:12
 
 ## Builds
 ### Hu/T
