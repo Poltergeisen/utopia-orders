@@ -5,14 +5,14 @@
 - Steal GC/Runes from 2:3 -> 6:7 -> 6:12
 
 ## TOC
-- [Hu/T](https://github.com/Poltergeisen/utopia-orders#hut)
-- [Av/CL](https://github.com/Poltergeisen/utopia-orders#avcl)
-- [Av/W](https://github.com/Poltergeisen/utopia-orders#avw)
-- [EL/CL](https://github.com/Poltergeisen/utopia-orders#elcl)
-- [DW/CL](https://github.com/Poltergeisen/utopia-orders#dwcl)
-- [DE](https://github.com/Poltergeisen/utopia-orders#de)
-- [Heretic](https://github.com/Poltergeisen/utopia-orders#heretic)
-- [Rogue](https://github.com/Poltergeisen/utopia-orders#rogue)
+- [Hu/T](#hut)
+- [Av/CL](#avcl)
+- [Av/W](#avw)
+- [EL/CL](#elcl)
+- [DW/CL](#dwcl)
+- [DE](#de)
+- [Heretic](#heretic)
+- [Rogue](#rogue)
 
 
 ## Hu/T
