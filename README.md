@@ -45,7 +45,7 @@ All scientists to ECON
   - 60k Income
 - Military
   - 2k Books all Categories
-  - 100% Books into valor
+  - 25k valor
   - 25k Heroism
   - 25k Resilience
   - 50k offense
@@ -82,7 +82,7 @@ All scientists to ECON
   - 60k Income
 - Military
   - 2k Books all Categories
-  - 100% Books into valor
+  - 25k valor
   - 25k Heroism
   - 25k Resilience
   - 50k offense
@@ -124,7 +124,7 @@ All scientists to ECON
   - 60k Income
 - Military
   - 2k Books all Categories
-  - 25k Books into valor
+  - 25k valor
   - 25k Heroism
   - 25k Resilience
   - 50k offense
@@ -156,7 +156,7 @@ All scientists to ECON
   - 60k Income
 - Military
   - 2k Books all Categories
-  - 25k Books into valor
+  - 25k valor
   - 25k Heroism
   - 25k Resilience
   - 50k offense
@@ -188,7 +188,7 @@ All scientists to ECON
   - 60k Income
 - Military
   - 2k Books all Categories
-  - 25k Books into valor
+  - 25k valor
   - 25k Heroism
   - 25k Resilience
   - 50k offense
@@ -220,7 +220,7 @@ All scientists to ECON
   - 60k Income
 - Military
   - 2k Books all Categories
-  - 25k Books into valor
+  - 25k valor
   - 25k Heroism
   - 25k Resilience
   - 50k DEF
@@ -253,7 +253,7 @@ All scientists to ECON
   - 60k Income
 - Military
   - 2k Books all Categories
-  - 25k Books into valor
+  - 25k valor
   - 25k Heroism
   - 25k Resilience
   - 50k DEF
