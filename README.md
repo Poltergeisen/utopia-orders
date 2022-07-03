@@ -7,7 +7,7 @@ Orders
 - Steal GC/Runes 6:12 -> Server
   - Don't sit on Runes/Stealth
 
-## TOC
+## Race/Pers Links
 - [Hu/T](#hut)
 - [Av/CL](#avcl)
 - [Av/W](#avw)
