@@ -3,8 +3,9 @@ Orders
 
 ## General Orders
 - 200%
-- Max Gain 2:3 _**until HOSTILE**_
-- Steal GC/Runes from 2:3 -> 6:7 -> 6:12
+- Max Gain the server
+- Steal GC/Runes 6:12 -> Server
+  - Don't sit on Runes/Stealth
 
 ## TOC
 - [Hu/T](#hut)
