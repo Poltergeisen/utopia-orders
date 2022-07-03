@@ -16,7 +16,7 @@
 
 
 ## Hu/T
-[General Orders](https://github.com/Poltergeisen/utopia-orders/blob/main/README.md#general-orders)
+[General Orders](#general-orders)
 
 ### Military
 - 1:1 Off/Dspecs
@@ -53,7 +53,7 @@ All scientists to ECON
 
 ___
 ## Av/Cl
-[General Orders](https://github.com/Poltergeisen/utopia-orders/blob/main/README.md#general-orders)
+[General Orders](#general-orders)
 
 ### Military
 - 1:1 Off/Dspecs
@@ -103,7 +103,7 @@ ___
 ___
 
 ## Rogue
-[General Orders](https://github.com/Poltergeisen/utopia-orders/blob/main/README.md#general-orders)
+[General Orders](#general-orders)
 
 ### Military
 - Train off specs
