@@ -6,15 +6,21 @@
 
 ## TOC
 - [Hu/T](https://github.com/Poltergeisen/utopia-orders#hut)
-- [Avian/Tactician](https://github.com/Poltergeisen/utopia-orders#aviantactician)
-- [Faery](https://github.com/Poltergeisen/utopia-orders#faery)
+- [Av/CL](https://github.com/Poltergeisen/utopia-orders#avcl)
+- [Av/W](https://github.com/Poltergeisen/utopia-orders#avw)
+- [EL/CL](https://github.com/Poltergeisen/utopia-orders#elcl)
+- [DW/CL](https://github.com/Poltergeisen/utopia-orders#dwcl)
+- [DE](https://github.com/Poltergeisen/utopia-orders#de)
+- [Heretic](https://github.com/Poltergeisen/utopia-orders#heretic)
 - [Rogue](https://github.com/Poltergeisen/utopia-orders#rogue)
+
 
 ## Hu/T
 [General Orders](https://github.com/Poltergeisen/utopia-orders/blob/main/README.md#general-orders)
 
 ### Military
 - 1:1 Off/Dspecs
+- 40-50k Def army-out
 - Maintain 1.5 TPA
 
 
@@ -46,56 +52,56 @@ All scientists to ECON
   - +100% Crime
 
 ___
-## Avian/Tactician
+## Av/Cl
 [General Orders](https://github.com/Poltergeisen/utopia-orders/blob/main/README.md#general-orders)
 
 ### Military
-- Train off specs
+- 1:1 Off/Dspecs
+- 40-50k Def army-out
 - Maintain 1.5 TPA
-- etc...
+
 
 ### Build
 | Homes | Farms  | Mills  | Banks | TGs | Arms | Rax  | Forts   | GS    |
 |-------|--------|--------|-------|-----|------|------|---------|-------|
-| 0     | 10     | 0      | 0     | 17  | 0    | 0    | 0       | 8     |
+| 0     | 10     | 0      | 0     | 22  | 0    | 0    | 0       | 14    |
 | Hosps | Guilds | Towers | TDs   | WTs | Libs | Unis | Stables | Dungs |
-| 12    | 14     | 13     | 0     | 15  | 0    | 0    | 10      | 1     |
+| 0     | 16     | 18     | 0     | 18  | 0    | 0    | 0       | 2     |
 
 ### Science
 All scientists to ECON
 - Economy
-  - 25k production -> 25k Tools -> ...
+  - 2k Books all Categories
+  - 60k Food
+  - 30k Artisan
+  - 60k Pop
+  - 60k BE
+  - 60k Income
 - Military
-  - 25k Resilience -> 25k Heroism -> 25k Valor
+  - 2k Books all Categories
+  - 100% Books into valor
+  - 25k Heroism
+  - 25k Resilience
+  - 50k offense
 - Arcane
-  - 15k Invocation -> etc...
-
+  - 2k Books all Categories
+  - 25k Ritual
+  - +100% Crime
+## Av/W
 ___
-## Faery
-[General Orders](https://github.com/Poltergeisen/utopia-orders/blob/main/README.md#general-orders)
 
-### Military
-- Train off specs
-- Maintain 1.5 TPA
-- etc...
-
-### Build
-| Homes | Farms  | Mills  | Banks | TGs | Arms | Rax  | Forts   | GS    |
-|-------|--------|--------|-------|-----|------|------|---------|-------|
-| 0     | 10     | 0      | 0     | 17  | 0    | 0    | 0       | 8     |
-| Hosps | Guilds | Towers | TDs   | WTs | Libs | Unis | Stables | Dungs |
-| 12    | 14     | 13     | 0     | 15  | 0    | 0    | 10      | 1     |
-
-### Science
-All scientists to ECON
-- Economy
-  - 25k production -> 25k Tools -> ...
-- Military
-  - 25k Resilience -> 25k Heroism -> 25k Valor
-- Arcane
-  - 15k Invocation -> etc...
-
+## EL/CL
 ___
+
+## DW/CL
+___
+
+## DE
+___
+
+## Heretic
+___
+
 ## Rogue
 [General Orders](https://github.com/Poltergeisen/utopia-orders/blob/main/README.md#general-orders)
 
