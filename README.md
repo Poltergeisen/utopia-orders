@@ -90,8 +90,11 @@ All scientists to ECON
   - 2k Books all Categories
   - 25k Ritual
   - +100% Crime
+  - 
 ## Av/W
+[General Orders](#general-orders)
 ### Military
+
 ### Build
 | Homes | Farms  | Mills  | Banks | TGs | Arms | Rax  | Forts   | GS    |
 |-------|--------|--------|-------|-----|------|------|---------|-------|
@@ -100,9 +103,28 @@ All scientists to ECON
 | 00    | 00     | 00     | 00    | 00  | 00   | 00   | 00      | 00    |
 
 ### Science
+All scientists to ECON
+- Economy
+  - 2k Books all Categories
+  - 60k Food
+  - 30k Artisan
+  - 60k Pop
+  - 60k BE
+  - 60k Income
+- Military
+  - 2k Books all Categories
+  - 25k valor
+  - 25k Heroism
+  - 25k Resilience
+  - 50k offense
+- Arcane
+  - 2k Books all Categories
+  - 25k Ritual
+  - +100% Crime
 ___
 
 ## EL/CL
+[General Orders](#general-orders)
 
 ### Military
 
@@ -135,6 +157,7 @@ All scientists to ECON
 ___
 
 ## DW/CL
+[General Orders](#general-orders)
 
 ### Military
 
@@ -167,6 +190,7 @@ All scientists to ECON
 ___
 
 ## DE
+[General Orders](#general-orders)
 
 ### Military
 
@@ -199,6 +223,7 @@ All scientists to ECON
 ___
 
 ## Heretic
+[General Orders](#general-orders)
 
 ### Military
 
