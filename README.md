@@ -114,6 +114,24 @@ ___
 | 00    | 00     | 00     | 00    | 00  | 00   | 00   | 00      | 00    |
 
 ### Science
+All scientists to ECON
+- Economy
+  - 2k Books all Categories
+  - 60k Food
+  - 30k Artisan
+  - 60k Pop
+  - 60k BE
+  - 60k Income
+- Military
+  - 2k Books all Categories
+  - 100% Books into valor
+  - 25k Heroism
+  - 25k Resilience
+  - 50k offense
+- Arcane
+  - 2k Books all Categories
+  - 25k Ritual
+  - +100% Crime
 ___
 
 ## DW/CL
@@ -128,6 +146,24 @@ ___
 | 00    | 00     | 00     | 00    | 00  | 00   | 00   | 00      | 00    |
 
 ### Science
+All scientists to ECON
+- Economy
+  - 2k Books all Categories
+  - 60k Food
+  - 30k Artisan
+  - 60k Pop
+  - 60k BE
+  - 60k Income
+- Military
+  - 2k Books all Categories
+  - 100% Books into valor
+  - 25k Heroism
+  - 25k Resilience
+  - 50k offense
+- Arcane
+  - 2k Books all Categories
+  - 25k Ritual
+  - +100% Crime
 ___
 
 ## DE
@@ -142,6 +178,24 @@ ___
 | 00    | 00     | 00     | 00    | 00  | 00   | 00   | 00      | 00    |
 
 ### Science
+All scientists to ECON
+- Economy
+  - 2k Books all Categories
+  - 60k Food
+  - 30k Artisan
+  - 60k Pop
+  - 60k BE
+  - 60k Income
+- Military
+  - 2k Books all Categories
+  - 100% Books into valor
+  - 25k Heroism
+  - 25k Resilience
+  - 50k offense
+- Arcane
+  - 2k Books all Categories
+  - 25k Ritual
+  - +100% Crime
 ___
 
 ## Heretic
@@ -156,6 +210,24 @@ ___
 | 00    | 00     | 00     | 00    | 00  | 00   | 00   | 00      | 00    |
 
 ### Science
+All scientists to ECON
+- Economy
+  - 2k Books all Categories
+  - 60k Food
+  - 30k Artisan
+  - 60k Pop
+  - 60k BE
+  - 60k Income
+- Military
+  - 2k Books all Categories
+  - 100% Books into valor
+  - 25k Heroism
+  - 25k Resilience
+  - 50k DEF
+- Arcane
+  - 2k Books all Categories
+  - 25k Ritual
+  - +100% Crime
 ___
 
 ## Rogue
@@ -171,3 +243,21 @@ ___
 | 00    | 00     | 00     | 00    | 00  | 00   | 00   | 00      | 00    |
 
 ### Science
+All scientists to ECON
+- Economy
+  - 2k Books all Categories
+  - 60k Food
+  - 30k Artisan
+  - 60k Pop
+  - 60k BE
+  - 60k Income
+- Military
+  - 2k Books all Categories
+  - 100% Books into valor
+  - 25k Heroism
+  - 25k Resilience
+  - 50k DEF
+- Arcane
+  - 2k Books all Categories
+  - 25k Ritual
+  - +100% Crime
