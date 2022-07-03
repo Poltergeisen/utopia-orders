@@ -14,23 +14,36 @@
 [General Orders](https://github.com/Poltergeisen/utopia-orders/blob/main/README.md#general-orders)
 
 ### Military
-- Train off specs
+- 1:1 Off/Dspecs
 - Maintain 1.5 TPA
-- etc...
+
 
 ### Build
-| Banks | WTs | This | That |   |
-|-------|-----|------|------|---|
-| 10    | 10  | 10   | 10   |   |
+| Homes | Farms  | Mills  | Banks | TGs | Arms | Rax  | Forts   | GS    |
+|-------|--------|--------|-------|-----|------|------|---------|-------|
+| 0     | 10     | 0      | 0     | 17  | 0    | 0    | 0       | 8     |
+| Hosps | Guilds | Towers | TDs   | WTs | Libs | Unis | Stables | Dungs |
+| 12    | 14     | 13     | 0     | 15  | 0    | 0    | 10      | 1     |
 
 ### Science
 All scientists to ECON
 - Economy
-  - 25k production -> 25k Tools -> ...
+  - 2k Books all Categories
+  - 60k Food
+  - 30k Artisan
+  - 60k Pop
+  - 60k BE
+  - 60k Income
 - Military
-  - 25k Resilience -> 25k Heroism -> 25k Valor
+  - 2k Books all Categories
+  - 100% Books into valor
+  - 25k Heroism
+  - 25k Resilience
+  - 50k offense
 - Arcane
-  - 15k Invocation -> etc...
+  - 2k Books all Categories
+  - 25k Ritual
+  - +100% Crime
 
 ___
 ## Avian/Tactician
@@ -42,9 +55,11 @@ ___
 - etc...
 
 ### Build
-| Banks | WTs | This | That |   |
-|-------|-----|------|------|---|
-| 10    | 10  | 10   | 10   |   |
+| Homes | Farms  | Mills  | Banks | TGs | Arms | Rax  | Forts   | GS    |
+|-------|--------|--------|-------|-----|------|------|---------|-------|
+| 0     | 10     | 0      | 0     | 17  | 0    | 0    | 0       | 8     |
+| Hosps | Guilds | Towers | TDs   | WTs | Libs | Unis | Stables | Dungs |
+| 12    | 14     | 13     | 0     | 15  | 0    | 0    | 10      | 1     |
 
 ### Science
 All scientists to ECON
@@ -65,9 +80,11 @@ ___
 - etc...
 
 ### Build
-| Banks | WTs | This | That |   |
-|-------|-----|------|------|---|
-| 10    | 10  | 10   | 10   |   |
+| Homes | Farms  | Mills  | Banks | TGs | Arms | Rax  | Forts   | GS    |
+|-------|--------|--------|-------|-----|------|------|---------|-------|
+| 0     | 10     | 0      | 0     | 17  | 0    | 0    | 0       | 8     |
+| Hosps | Guilds | Towers | TDs   | WTs | Libs | Unis | Stables | Dungs |
+| 12    | 14     | 13     | 0     | 15  | 0    | 0    | 10      | 1     |
 
 ### Science
 All scientists to ECON
@@ -88,9 +105,11 @@ ___
 - etc...
 
 ### Build
-| Banks | WTs | This | That |   |
-|-------|-----|------|------|---|
-| 10    | 10  | 10   | 10   |   |
+| Homes | Farms  | Mills  | Banks | TGs | Arms | Rax  | Forts   | GS    |
+|-------|--------|--------|-------|-----|------|------|---------|-------|
+| 0     | 10     | 0      | 0     | 17  | 0    | 0    | 0       | 8     |
+| Hosps | Guilds | Towers | TDs   | WTs | Libs | Unis | Stables | Dungs |
+| 12    | 14     | 13     | 0     | 15  | 0    | 0    | 10      | 1     |
 
 ### Science
 All scientists to ECON
