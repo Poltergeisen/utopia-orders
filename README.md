@@ -30,9 +30,9 @@ Orders
 ### Build
 | Homes | Farms  | Mills  | Banks | TGs | Arms | Rax  | Forts   | GS    |
 |-------|--------|--------|-------|-----|------|------|---------|-------|
-| 0     | 10     | 0      | 0     | 17  | 0    | 0    | 0       | 8     |
+| 00    | 10     | 00     | 00    | 17  | 00   | 00   | 00      | 08    |
 | Hosps | Guilds | Towers | TDs   | WTs | Libs | Unis | Stables | Dungs |
-| 12    | 14     | 13     | 0     | 15  | 0    | 0    | 10      | 1     |
+| 12    | 14     | 13     | 00    | 15  | 00   | 00   | 10      | 01    |
 
 ### Science
 All scientists to ECON
