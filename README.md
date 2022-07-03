@@ -89,7 +89,7 @@ All scientists to ECON
   - 2k Books all Categories
   - 25k Ritual
   - +100% Crime
-  - 
+
 ## Av/W
 [General Orders](#general-orders)
 ### Military
