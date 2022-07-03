@@ -88,18 +88,63 @@ All scientists to ECON
   - 25k Ritual
   - +100% Crime
 ## Av/W
+### Military
+### Build
+| Homes | Farms  | Mills  | Banks | TGs | Arms | Rax  | Forts   | GS    |
+|-------|--------|--------|-------|-----|------|------|---------|-------|
+| 00    | 00     | 00     | 00    | 00  | 00   | 00   | 00      | 00    |
+| Hosps | Guilds | Towers | TDs   | WTs | Libs | Unis | Stables | Dungs |
+| 00    | 00     | 00     | 00    | 00  | 00   | 00   | 00      | 00    |
+
+### Science
 ___
 
 ## EL/CL
+### Military
+### Build
+| Homes | Farms  | Mills  | Banks | TGs | Arms | Rax  | Forts   | GS    |
+|-------|--------|--------|-------|-----|------|------|---------|-------|
+| 00    | 00     | 00     | 00    | 00  | 00   | 00   | 00      | 00    |
+| Hosps | Guilds | Towers | TDs   | WTs | Libs | Unis | Stables | Dungs |
+| 00    | 00     | 00     | 00    | 00  | 00   | 00   | 00      | 00    |
+
+### Science
 ___
 
 ## DW/CL
+### Military
+### Build
+| Homes | Farms  | Mills  | Banks | TGs | Arms | Rax  | Forts   | GS    |
+|-------|--------|--------|-------|-----|------|------|---------|-------|
+| 00    | 00     | 00     | 00    | 00  | 00   | 00   | 00      | 00    |
+| Hosps | Guilds | Towers | TDs   | WTs | Libs | Unis | Stables | Dungs |
+| 00    | 00     | 00     | 00    | 00  | 00   | 00   | 00      | 00    |
+
+### Science
 ___
 
 ## DE
+### Military
+### Build
+| Homes | Farms  | Mills  | Banks | TGs | Arms | Rax  | Forts   | GS    |
+|-------|--------|--------|-------|-----|------|------|---------|-------|
+| 00    | 00     | 00     | 00    | 00  | 00   | 00   | 00      | 00    |
+| Hosps | Guilds | Towers | TDs   | WTs | Libs | Unis | Stables | Dungs |
+| 00    | 00     | 00     | 00    | 00  | 00   | 00   | 00      | 00    |
+
+### Science
 ___
 
 ## Heretic
+### Military
+### Build
+| Homes | Farms  | Mills  | Banks | TGs | Arms | Rax  | Forts   | GS    |
+|-------|--------|--------|-------|-----|------|------|---------|-------|
+| 00    | 00     | 00     | 00    | 00  | 00   | 00   | 00      | 00    |
+| Hosps | Guilds | Towers | TDs   | WTs | Libs | Unis | Stables | Dungs |
+| 00    | 00     | 00     | 00    | 00  | 00   | 00   | 00      | 00    |
+
+### Science
 ___
 
 ## Rogue
