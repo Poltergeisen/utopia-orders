@@ -59,10 +59,9 @@ ___
 [General Orders](#general-orders)
 
 ### Military
+- Maintain 1.5 TPA
 - 1:1 Off/Dspecs
 - 40-50k Def army-out
-- Maintain 1.5 TPA
-
 
 ### Build
 | Homes | Farms  | Mills  | Banks | TGs | Arms | Rax  | Forts   | GS    |
@@ -94,6 +93,9 @@ All scientists to ECON
 ## Av/W
 [General Orders](#general-orders)
 ### Military
+- Maintain 1.5 TPA
+- 1:1 Off/Dspecs
+- 40-50k Def army-out
 
 ### Build
 | Homes | Farms  | Mills  | Banks | TGs | Arms | Rax  | Forts   | GS    |
@@ -127,6 +129,9 @@ ___
 [General Orders](#general-orders)
 
 ### Military
+- Maintain 1.5 TPA
+- 1:1 Off/Dspecs
+- 40-50k Def army-out
 
 ### Build
 | Homes | Farms  | Mills  | Banks | TGs | Arms | Rax  | Forts   | GS    |
@@ -160,6 +165,9 @@ ___
 [General Orders](#general-orders)
 
 ### Military
+- Maintain 1.5 TPA
+- 1:1 Off/Dspecs
+- 40-50k Def army-out
 
 ### Build
 | Homes | Farms  | Mills  | Banks | TGs | Arms | Rax  | Forts   | GS    |
@@ -193,6 +201,7 @@ ___
 [General Orders](#general-orders)
 
 ### Military
+- TBD
 
 ### Build
 | Homes | Farms  | Mills  | Banks | TGs | Arms | Rax  | Forts   | GS    |
@@ -226,6 +235,7 @@ ___
 [General Orders](#general-orders)
 
 ### Military
+- TBD
 
 ### Build
 | Homes | Farms  | Mills  | Banks | TGs | Arms | Rax  | Forts   | GS    |
@@ -259,6 +269,7 @@ ___
 [General Orders](#general-orders)
 
 ### Military
+- TBD
 
 ### Build
 | Homes | Farms  | Mills  | Banks | TGs | Arms | Rax  | Forts   | GS    |
