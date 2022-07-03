@@ -102,7 +102,9 @@ All scientists to ECON
 ___
 
 ## EL/CL
+
 ### Military
+
 ### Build
 | Homes | Farms  | Mills  | Banks | TGs | Arms | Rax  | Forts   | GS    |
 |-------|--------|--------|-------|-----|------|------|---------|-------|
@@ -114,7 +116,9 @@ ___
 ___
 
 ## DW/CL
+
 ### Military
+
 ### Build
 | Homes | Farms  | Mills  | Banks | TGs | Arms | Rax  | Forts   | GS    |
 |-------|--------|--------|-------|-----|------|------|---------|-------|
@@ -126,7 +130,9 @@ ___
 ___
 
 ## DE
+
 ### Military
+
 ### Build
 | Homes | Farms  | Mills  | Banks | TGs | Arms | Rax  | Forts   | GS    |
 |-------|--------|--------|-------|-----|------|------|---------|-------|
@@ -138,7 +144,9 @@ ___
 ___
 
 ## Heretic
+
 ### Military
+
 ### Build
 | Homes | Farms  | Mills  | Banks | TGs | Arms | Rax  | Forts   | GS    |
 |-------|--------|--------|-------|-----|------|------|---------|-------|
@@ -153,22 +161,12 @@ ___
 [General Orders](#general-orders)
 
 ### Military
-- Train off specs
-- Maintain 1.5 TPA
-- etc...
 
 ### Build
 | Homes | Farms  | Mills  | Banks | TGs | Arms | Rax  | Forts   | GS    |
 |-------|--------|--------|-------|-----|------|------|---------|-------|
-| 0     | 10     | 0      | 0     | 17  | 0    | 0    | 0       | 8     |
+| 00    | 00     | 00     | 00    | 00  | 00   | 00   | 00      | 00    |
 | Hosps | Guilds | Towers | TDs   | WTs | Libs | Unis | Stables | Dungs |
-| 12    | 14     | 13     | 0     | 15  | 0    | 0    | 10      | 1     |
+| 00    | 00     | 00     | 00    | 00  | 00   | 00   | 00      | 00    |
 
 ### Science
-All scientists to ECON
-- Economy
-  - 25k production -> 25k Tools -> ...
-- Military
-  - 25k Resilience -> 25k Heroism -> 25k Valor
-- Arcane
-  - 15k Invocation -> etc...
