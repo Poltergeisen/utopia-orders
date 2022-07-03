@@ -66,9 +66,9 @@ ___
 ### Build
 | Homes | Farms  | Mills  | Banks | TGs | Arms | Rax  | Forts   | GS    |
 |-------|--------|--------|-------|-----|------|------|---------|-------|
-| 0     | 10     | 0      | 0     | 22  | 0    | 0    | 0       | 14    |
+| 00    | 10     | 00     | 00    | 22  | 00   | 00   | 00      | 14    |
 | Hosps | Guilds | Towers | TDs   | WTs | Libs | Unis | Stables | Dungs |
-| 0     | 16     | 18     | 0     | 18  | 0    | 0    | 0       | 2     |
+| 00    | 16     | 18     | 00    | 18  | 00   | 00   | 00      | 02    |
 
 ### Science
 All scientists to ECON
@@ -100,9 +100,9 @@ All scientists to ECON
 ### Build
 | Homes | Farms  | Mills  | Banks | TGs | Arms | Rax  | Forts   | GS    |
 |-------|--------|--------|-------|-----|------|------|---------|-------|
-| 00    | 00     | 00     | 00    | 00  | 00   | 00   | 00      | 00    |
+| 00    | 10     | 00     | 00    | 20  | 00   | 00   | 00      | 10    |
 | Hosps | Guilds | Towers | TDs   | WTs | Libs | Unis | Stables | Dungs |
-| 00    | 00     | 00     | 00    | 00  | 00   | 00   | 00      | 00    |
+| 13    | 15     | 14     | 00    | 16  | 00   | 00   | 00      | 02    |
 
 ### Science
 All scientists to ECON
